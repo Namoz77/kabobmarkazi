@@ -1,0 +1,58 @@
+body {
+  background-color: #F8ECD1;
+}
+h1 {
+  font-family: cursive;
+  color: green;
+  font-size: 50px;
+}
+h2 {
+  color:#8E3200;
+  font-style: italic;
+  font-size: 35px;
+}
+h3 {
+  color:#8E3200;
+  font-style: italic;
+  font-size: 25px;
+}
+h4 {
+  color: red;
+  font-size: 25px;
+}
+h5 {
+  color:#8E3200;
+  font-style: italic;
+  font-size: 28px;
+}
+hr {
+  background-color: grey;
+  height: 5px;
+}
+
+/**************Class Selectors***************/
+.Tur {
+  color: green;
+  font-size: 19px;
+}
+
+.login {
+  font-size: 19px;
+}
+
+/***************ID Selectors****************/
+#narx {
+  color:red;
+}
+
+#manzil {
+  font-family: serif;
+  font-size: 19px;
+  color: black;
+
+}
+
+#biz {
+  font-size: 20px;
+  color: black;
+}
